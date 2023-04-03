@@ -23,3 +23,30 @@ To use the code in this repository, you will need to have a basic understanding 
 
 To get started, simply clone this repository to your local machine:
 
+git clone https://github.com/Y-SURGE-Y/Web-Devlopment.git
+
+
+## Usage
+
+This repository contains multiple folders, each of which represents a different module in the course. Within each folder, you will find code examples and projects that correspond to the lessons in that module.
+
+Feel free to explore the code and experiment with making changes. You can also use this repository as a reference for future projects.
+
+## Course Outline
+
+1. Introduction to JavaScript
+2. Variables and Data Types
+3. Functions
+4. Conditional Statements
+5. Loops
+6. Arrays
+7. Objects
+8. DOM Manipulation
+
+## Contributing
+
+If you find any errors or have suggestions for improving the code, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
