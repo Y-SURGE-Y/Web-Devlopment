@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(141, 176, 226);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+
+h1{
+    font-size: 50px;
+    color: #225b71;
+}
+
+h2 {
+    color: rgb(64, 137, 173);
+}
+
+.First {
+    color: rgb(33, 63, 90);
+}
+
+.Second {
+    color: rgb(49, 51, 152);
+}
+
+#your-name{
+    background-color: rgb(62, 172, 212);
+    border: 5px solid #444;
+}
+
+#tree-image {
+    border: 3px solid black;
+}
